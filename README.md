@@ -1,6 +1,6 @@
 # ML-AI
-Machine Learning and Aritifical Intelligence modules
-This contains the following modules that I am currently learning.
+<p>Machine Learning and Aritifical Intelligence modules</p>
+<p>This contains the following modules that I am currently learning.</p>
 
 <pre>1.Advanced Python and Machine Learning Tools - SciKit Learn, Pandas, Matplotlib
 2.Introduction to Machine Learning
