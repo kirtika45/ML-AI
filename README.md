@@ -23,5 +23,6 @@ This contains the following modules that I am currently learning.
 19.RNN
 20.Introduction to Unsupervised Learning
 21.Clustering - Flat and Hierarchical
-22.K-Means</pre>pre
+22.K-Means
 23.K-Medoids
+</pre>
