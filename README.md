@@ -1,8 +1,8 @@
 # ML-AI
 Machine Learning and Aritifical Intelligence modules
-This contains the following modules that I am currently learning as of 12-Dec-2024.
+This contains the following modules that I am currently learning.
 
-1.Advanced Python and Machine Learning Tools - SciKit Learn, Pandas, Matplotlib
+<pre>1.Advanced Python and Machine Learning Tools - SciKit Learn, Pandas, Matplotlib
 2.Introduction to Machine Learning
 3.Linear Regression
 4.MultiVariable Regression and Gradient Descent
@@ -23,5 +23,5 @@ This contains the following modules that I am currently learning as of 12-Dec-20
 19.RNN
 20.Introduction to Unsupervised Learning
 21.Clustering - Flat and Hierarchical
-22.K-Means
+22.K-Means</pre>pre
 23.K-Medoids
